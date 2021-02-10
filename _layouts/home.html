@@ -23,13 +23,18 @@ layout: default
 
 <!-- ABOUT ME SECTION -->
 <div class="card mx-auto border-0" style="position:relative;background-color:{{theme.home-background-color}};">
-  <div class="row">
-    <div class="col-md-4">
+  <div class="row" style="display: flex; align-items: center;">
+    <div class="col-md-4" style="text-align:center;">
+     
       {% if site.animate %}
-        <img src="{{ site.profile_image }}" class="img-thumbnail float-left animate__animated animate__fadeInLeft shadow bg-white rounded" alt="...">
+        <img src="{{ site.profile_image }}" style="max-height: 69%; max-width: 69%;" class="img-thumbnail float-center animate__animated animate__fadeInLeft shadow bg-white rounded" alt="...">
       {% else %}
-        <img src="{{ site.profile_image }}" class="img-thumbnail float-left" alt="...">
+        <img src="{{ site.profile_image }}" style="max-height: 69%; max-width: 69%;" class="img-thumbnail float-center" alt="...">
       {% endif %}
+      <p style="padding-top:1rem;">
+        <h3><strong>Fanghua Ye 叶方华</strong></h3>
+      </p>
+      
     </div>
     <!-- EDUCATION SECTION -->
     <div class="col-md-8">
@@ -74,21 +79,23 @@ layout: default
       <div class="tab-content mt-3">
         {% for section in site.data.sections %}
           {% if section.first %}
-            {% if section.name == "Publications" %}
+            {% if section.name == "News" %}
               <div class="tab-pane active overflow-auto" id="{{section.id}}" role="tabpanel">
-                <p><i>{{section.description}}</i></p>
-                <p class="card-text">{% bibliography -f papers %}</p>
+                <div class="card-text">
+                  {% capture news1 %} {% include news.md %} {% endcapture %}
+                  {{ news1 | markdownify}}
+                </div>
               </div>
             {% else %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel">
                 <p class="card-text">{{section.description}}</p>
               </div>
             {% endif %}
-          {% else %}  
-            {% if section.name == "Presentations" %}
-              <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
-                <p><i>{{section.description}}</i></p>
-                <p class="card-text">{% bibliography -f presentations %}</p>              
+          {% else %}
+            {% if section.name == "Selected Publications" %}
+              <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel">
+                <!-- <p><i>{{section.description}}</i></p> -->
+                <p class="card-text">{% include pubs.html %}</p>
               </div>
             {% elsif section.name == "Projects" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
@@ -110,7 +117,7 @@ layout: default
                   {% endfor %}
                 </div>        
               </div>
-            {% elsif section.name == "Teaching" %}
+            {% elsif section.name == "TeachingOri" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
                     {% for courses in site.data.teaching %}
@@ -127,9 +134,9 @@ layout: default
                     </div>
                     {% endfor %}
               </div>
-            {% elsif section.name == "Coursework" %}
+            {% elsif section.name == "Teaching" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
-                <p><i>{{section.description}}</i></p>
+                <!-- <p><i>{{section.description}}</i></p> -->
                 <div class="list-group">
                 {% for courses in site.data.courses %}
                   <button type="button" class="list-group-item text-left">{{ courses.Course }}</button>
@@ -147,7 +154,7 @@ layout: default
       </div>
   </div>
 </div>
-
+    
 
 
 <!-- ANIMATE.JS ANIMATE LIBRARY

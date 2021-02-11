@@ -32,12 +32,12 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Journal Articles
 
-+ **Multi-Stage Network Embeddingfor Exploring Heterogeneous Edges**<br/>
++ **Multi-Stage Network Embedding for Exploring Heterogeneous Edges**<br/>
   Hong Huang, Yu Song, **Fanghua Ye**, Xing Xie, Xuanhua Shi, and Hai Jin<br/>
   ACM Transactions on Knowledge Discovery from Data (TKDD), 2020<br/>
   **[[<font color=red>Paper</font>](https://dl.acm.org/doi/abs/10.1145/3415157)]**
 
-+ **Nonuniform Hyper-Network Embeddingwith Dual Mechanism**<br/>
++ **Nonuniform Hyper-Network Embedding with Dual Mechanism**<br/>
   Jie Huang, Chuan Chen, **Fanghua Ye**, Weibo Hu, and Zibin Zheng<br/>
   ACM Transactions on Information Systems (TOIS), 2020<br/>
   **[[<font color=red>Paper</font>](https://dl.acm.org/doi/abs/10.1145/3388924)]**

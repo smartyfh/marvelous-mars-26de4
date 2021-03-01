@@ -32,6 +32,10 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Journal Articles
 
++ **Enhancing Graph Neural Networks via Auxiliary Training for Semi-Supervised Node Classification**<br/>
+  Yao Wu, Yu Song, Hong Huang, **Fanghua Ye**, Xing Xie, and Hai Jin<br/> 
+  Knowledge-Based Systems (KBS), 2021
+
 + **Multi-Stage Network Embedding for Exploring Heterogeneous Edges**<br/>
   Hong Huang, Yu Song, **Fanghua Ye**, Xing Xie, Xuanhua Shi, and Hai Jin<br/>
   ACM Transactions on Knowledge Discovery from Data (TKDD), 2020<br/>

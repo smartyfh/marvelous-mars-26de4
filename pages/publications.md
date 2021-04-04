@@ -34,7 +34,8 @@ last-updated: 2020-10-30 5:55 PM
 
 + **Enhancing Graph Neural Networks via Auxiliary Training for Semi-Supervised Node Classification**<br/>
   Yao Wu, Yu Song, Hong Huang, **Fanghua Ye**, Xing Xie, and Hai Jin<br/> 
-  Knowledge-Based Systems (KBS), 2021
+  Knowledge-Based Systems (KBS), 2021<br/>
+  **[[<font color=red>Paper</font>](https://doi.org/10.1016/j.knosys.2021.106884)]**
 
 + **Multi-Stage Network Embedding for Exploring Heterogeneous Edges**<br/>
   Hong Huang, Yu Song, **Fanghua Ye**, Xing Xie, Xuanhua Shi, and Hai Jin<br/>
@@ -65,6 +66,11 @@ last-updated: 2020-10-30 5:55 PM
   Rui Li, **Fanghua Ye**, Shaoan Xie, Chuan Chen, and Zibin Zheng<br/>
   Neurocomputing, 2019<br/>
   **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231218314036)]**
+
++ **BGN: Identifying Influential Nodes in Complex Networks via Backward Generating Networks**<br/>
+  Zhiwei Lin, **Fanghua Ye**, Chuan Chen, and Zibin Zheng<br/>
+  IEEE Access, 2018<br/>
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8491286)]**
 
 + **Identifying Influential Individuals on Large-Scale Social Networks: A Community Based Approach**<br/>
   **Fanghua Ye**, Jiahao Liu, Chuan Chen, Guohui Ling, Zibin Zheng, and Yuren Zhou<br/>
@@ -126,6 +132,11 @@ last-updated: 2020-10-30 5:55 PM
   ACM International Conference on Management of Data (SIGMOD), 2018 <br/>
   **[[<font color=red>Paper</font>](https://dl.acm.org/doi/10.1145/3183713.3183736)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/MAIC)]**
 
++ **An Adaptive Semi-Local Algorithm for Node Ranking in Large Complex Networks**<br/>
+  **Fanghua Ye**, Chuan Chen, Jie Zhang, Jiajing Wu, and Zibin Zheng<br/>
+  International Conference on Service-Oriented Computing (ICSOC), 2018 (short) <br/>
+  **[[<font color=red>Paper</font>](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_36)]**
+
 + **Identifying Influential Nodes in Complex Networks via Semi-Local Centrality**<br/>
   Jiali Dong, **Fanghua Ye**, Wuhui Chen, and Jiajing Wu<br/>
   IEEE International Symposium on Circuits and Systems (ISCAS), 2018 <br/>
@@ -135,3 +146,17 @@ last-updated: 2020-10-30 5:55 PM
   Jie Zhang, Jiajing Wu, Yongxiang Xia, and **Fanghua Ye**<br/>
   IEEE International Symposium on Circuits and Systems (ISCAS), 2018 <br/>
   **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8351747)]**
+  
++ **Efficient Influential Individuals Discovery on Service-Oriented Social Networks: A Community-Based Approach**<br/>
+  **Fanghua Ye**, Jiahao Liu, Chuan Chen, Guohui Ling, Zibin Zheng, and Yuren Zhou<br/>
+  International Conference on Service-Oriented Computing (ICSOC), 2017 (short) <br/>
+  **[[<font color=red>Paper</font>](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_44)]**
+  
+
+
+### Workshop Papers
+
++ **DC-RSF: A Dynamic and Customized Reputation System Framework for Joint Cloud Computing**<br/>
+  **Fanghua Ye**, Zibin Zheng, Chuan Chen, and Yuren Zhou<br/>
+  IEEE International Conference on Distributed Computing Systems Workshops (ICDCSW), 2017 <br/>
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/7979829)]**

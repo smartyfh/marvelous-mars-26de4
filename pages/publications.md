@@ -32,6 +32,10 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Journal Articles
 
++ **Learning Deep Discriminative Representations with Pseudo Supervision for Image Clustering**<br/>
+  Weibo Hu, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Yunfei Du<br/> 
+  Information Sciences, 2021
+
 + **Enhancing Graph Neural Networks via Auxiliary Training for Semi-Supervised Node Classification**<br/>
   Yao Wu, Yu Song, Hong Huang, **Fanghua Ye**, Xing Xie, and Hai Jin<br/> 
   Knowledge-Based Systems (KBS), 2021<br/>

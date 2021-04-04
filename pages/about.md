@@ -64,12 +64,14 @@ last-updated: 2020-10-30 5:55 PM
 + PC Member  
   - AAAI 2021
 
-+ Conference (Sub-)Reviewer  
++ Conference (Sub-)Reviewer
+  - KDD 2021  
   - CIKM 2020, KDD 2020  
   - CIKM 2018, IJCAI 2018  
   - ICSOC 2017
 
-+ Journal Reviewer  
++ Journal Reviewer
+  - ACM Transactions on Information Systems
   - IEEE Transactions on Cybernetics  
   - World Wide Web Journal  
   - Scientific Reports  

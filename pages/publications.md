@@ -136,7 +136,7 @@ last-updated: 2020-10-30 5:55 PM
   International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
   **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_40)]**  
 
-+ **Nonnegative Spectral Clustering for Large-Scale Semi-supervised Learning**<br/>
++ **Nonnegative Spectral Clustering for Large-Scale Semi-Supervised Learning**<br/>
   Weibo Hu, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Guohui Ling<br/>
   International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
   **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_30)]**

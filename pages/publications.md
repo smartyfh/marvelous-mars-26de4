@@ -15,6 +15,11 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Preprint
 
++ **MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation**<br/>
+  **Fanghua Ye**, Jarana Manotumruksa, and Emine Yilmaz<br/>
+  Arxiv, 2021<br/>
+  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2104.00773)]** **[[<font color=red>Data</font>](https://github.com/smartyfh/MultiWOZ2.4)]**
+
 + **Auto-Weighted Robust Federated Learning with Corrupted Data Sources**<br/>
   Shenghui Li, Edith Ngai, **Fanghua Ye**, and Thiemo Voigt<br/>
   Arxiv, 2021<br/>
@@ -120,6 +125,21 @@ last-updated: 2020-10-30 5:55 PM
   Lin Meng, Yuxiang Ren, Jiawei Zhang, **Fanghua Ye**, and Philip S. Yu<br/>
   IEEE First International Conference on Cognitive Machine Intelligence (CogMI), 2019<br/>
   **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8998782)]**
+  
++ **Hyper2vec: Biased Random Walk for Hyper-Network Embedding**<br/>
+  Jie Huang, Chuan Chen, **Fanghua Ye**, Jiajing Wu, Zibin Zheng, and Guohui Ling<br/>
+  International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
+  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_27)]**  
+
++ **A Semi-Supervised Classification Approach for Multiple Time-Varying Networks with Total Variation**<br/>
+  Yuzheng Li, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Guohui Ling<br/>
+  International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
+  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_40)]**  
+
++ **Nonnegative Spectral Clustering for Large-Scale Semi-supervised Learning**<br/>
+  Weibo Hu, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Guohui Ling<br/>
+  International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
+  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_30)]**
 
 + **Adaptive Affinity Learning for Accurate Community Detection**<br/>
   **Fanghua Ye**, Shenghui Li, Zhiwei Lin, Chuan Chen, and Zibin Zheng<br/>

@@ -13,7 +13,7 @@ last-updated: 2020-10-30 5:55 PM
 </div>
 
 
-### Preprint
+### Preprints
 
 + **MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, and Emine Yilmaz<br/>
@@ -178,7 +178,7 @@ last-updated: 2020-10-30 5:55 PM
   
 
 
-### Workshop Papers
+### Workshop Paper
 
 + **DC-RSF: A Dynamic and Customized Reputation System Framework for Joint Cloud Computing**<br/>
   **Fanghua Ye**, Zibin Zheng, Chuan Chen, and Yuren Zhou<br/>

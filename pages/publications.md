@@ -99,12 +99,12 @@ last-updated: 2020-10-30 5:55 PM
 + **Slot Self-Attentive Dialogue State Tracking**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, Qiang Zhang, Shenghui Li, and Emine Yilmaz<br/>
   The Web Conference (WWW), 2021<br/>
-  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2101.09374)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/DST-STAR)]**
+  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2101.09374)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/DST-STAR)]** **[[<font color=red>Video</font>](https://www.youtube.com/watch?v=xkw9NMFkygc)]**
 
 + **Outlier-Resilient Web Service QoS Prediction**<br/>
   **Fanghua Ye**, Zhiwei Lin, Chuan Chen, Zibin Zheng, and Hong Huang<br/>
   The Web Conference (WWW), 2021<br/>
-  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2006.01287)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/CMF-CTF)]**
+  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2006.01287)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/CMF-CTF)]** **[[<font color=red>Video</font>](https://www.youtube.com/watch?v=CFpOIE_6lQM)]**
 
 + **Unsupervised Few-Bits Semantic Hashing with Implicit Topics Modeling**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, and Emine Yilmaz<br/>

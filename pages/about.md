@@ -72,7 +72,8 @@ last-updated: 2020-10-30 5:55 PM
 
 + Journal Reviewer
   - ACM Transactions on Information Systems
-  - IEEE Transactions on Cybernetics  
+  - IEEE Transactions on Cybernetics 
+  - IEEE Transactions on Big Data 
   - World Wide Web Journal  
   - Scientific Reports  
   - Social Network Analysis and Mining  

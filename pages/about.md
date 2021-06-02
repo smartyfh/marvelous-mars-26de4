@@ -61,8 +61,9 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Academic Services
 
-+ PC Member  
-  - AAAI 2021
++ PC Member 
+  - WSDM 2022 
+  - CIKM 2021, AAAI 2021
 
 + Conference (Sub-)Reviewer
   - KDD 2021  
@@ -74,8 +75,9 @@ last-updated: 2020-10-30 5:55 PM
   - ACM Transactions on Information Systems
   - IEEE Transactions on Cybernetics 
   - IEEE Transactions on Big Data 
+  - IEEE Access
   - World Wide Web Journal  
   - Scientific Reports  
   - Social Network Analysis and Mining  
-  - IEEE Access
+  
   

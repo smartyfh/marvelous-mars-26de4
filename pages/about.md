@@ -62,7 +62,7 @@ last-updated: 2020-10-30 5:55 PM
 ### Academic Services
 
 + PC Member 
-  - WSDM 2022 
+  - WSDM 2022, AAAI 2022 
   - CIKM 2021, AAAI 2021
 
 + Conference (Sub-)Reviewer

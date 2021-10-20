@@ -76,6 +76,9 @@ last-updated: 2020-10-30 5:55 PM
   - IEEE Transactions on Cybernetics 
   - IEEE Transactions on Big Data 
   - IEEE Access
+  - Pattern Recognition
+  - Information Sciences
+  - Knowledge-Based Systems
   - World Wide Web Journal  
   - Scientific Reports  
   - Social Network Analysis and Mining  

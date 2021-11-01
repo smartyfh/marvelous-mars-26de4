@@ -53,12 +53,9 @@ last-updated: 2020-10-30 5:55 PM
 
 + Scholarships  
   - UCL Research Studentship, 2019 - Now  
-  - National Postgraduate Scholarship, Ministry of Education, 2018  
-  - First Class Postgraduate Scholarship, Sun Yat-Sen University, 2018  
-  - National Postgraduate Scholarship, Ministry of Education, 2017  
-  - First Class Postgraduate Scholarship, Sun Yat-Sen University, 2017  
-  - First Class Postgraduate Scholarship, Sun Yat-Sen University, 2016
-
+  - National Postgraduate Scholarship, 2018  
+  - National Postgraduate Scholarship, 2017   
+  
 ### Academic Services
 
 + PC Member 

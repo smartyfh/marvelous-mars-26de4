@@ -34,7 +34,7 @@ last-updated: 2020-10-30 5:55 PM
 
 + **Auto-Weighted Robust Federated Learning with Corrupted Data Sources**<br/>
   Shenghui Li, Edith Ngai, **Fanghua Ye**, and Thiemo Voigt<br/>
-  IEEE Transactions on Intelligent Systems and Technology (TIST), 2022<br/>
+  ACM Transactions on Intelligent Systems and Technology (TIST), 2022<br/>
   **[[<font color=red>Paper</font>](https://arxiv.org/abs/2101.05880)]**
 
 + **Learning Deep Discriminative Representations with Pseudo Supervision for Image Clustering**<br/>

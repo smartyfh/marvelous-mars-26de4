@@ -19,11 +19,6 @@ last-updated: 2020-10-30 5:55 PM
   **Fanghua Ye**, Jarana Manotumruksa, and Emine Yilmaz<br/>
   Arxiv, 2021<br/>
   **[[<font color=red>Paper</font>](https://arxiv.org/abs/2104.00773)]** **[[<font color=red>Data</font>](https://github.com/smartyfh/MultiWOZ2.4)]**
-
-+ **Auto-Weighted Robust Federated Learning with Corrupted Data Sources**<br/>
-  Shenghui Li, Edith Ngai, **Fanghua Ye**, and Thiemo Voigt<br/>
-  Arxiv, 2021<br/>
-  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2101.05880)]**
   
 
 ### Book Chapter
@@ -37,9 +32,15 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Journal Articles
 
++ **Auto-Weighted Robust Federated Learning with Corrupted Data Sources**<br/>
+  Shenghui Li, Edith Ngai, **Fanghua Ye**, and Thiemo Voigt<br/>
+  IEEE Transactions on Intelligent Systems and Technology (TIST), 2022<br/>
+  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2101.05880)]**
+
 + **Learning Deep Discriminative Representations with Pseudo Supervision for Image Clustering**<br/>
   Weibo Hu, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Yunfei Du<br/> 
-  Information Sciences, 2021
+  Information Sciences, 2021<br/>
+  **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/pii/S0020025521003170)]**
 
 + **Enhancing Graph Neural Networks via Auxiliary Training for Semi-Supervised Node Classification**<br/>
   Yao Wu, Yu Song, Hong Huang, **Fanghua Ye**, Xing Xie, and Hai Jin<br/> 

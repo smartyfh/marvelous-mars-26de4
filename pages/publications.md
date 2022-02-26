@@ -21,81 +21,15 @@ last-updated: 2020-10-30 5:55 PM
   **[[<font color=red>Paper</font>](https://arxiv.org/abs/2104.00773)]** **[[<font color=red>Data</font>](https://github.com/smartyfh/MultiWOZ2.4)]**
   
 
-### Book Chapter
-
-+ **New Approaches in Multi-View Clustering**<br/>
-  **Fanghua Ye**, Zitai Chen, Hui Qian, Rui Li, Chuan Chen, and Zibin Zheng<br/>
-  Recent Applications in Data Clustering, 2018<br/>
-  **[[<font color=red>Paper</font>](https://www.intechopen.com/books/recent-applications-in-data-clustering/new-approaches-in-multi-view-clustering)]**
-
-
-
-### Journal Articles
-
-+ **Auto-Weighted Robust Federated Learning with Corrupted Data Sources**<br/>
-  Shenghui Li, Edith Ngai, **Fanghua Ye**, and Thiemo Voigt<br/>
-  ACM Transactions on Intelligent Systems and Technology (TIST), 2022<br/>
-  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2101.05880)]**
-
-+ **Learning Deep Discriminative Representations with Pseudo Supervision for Image Clustering**<br/>
-  Weibo Hu, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Yunfei Du<br/> 
-  Information Sciences, 2021<br/>
-  **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/pii/S0020025521003170)]**
-
-+ **Enhancing Graph Neural Networks via Auxiliary Training for Semi-Supervised Node Classification**<br/>
-  Yao Wu, Yu Song, Hong Huang, **Fanghua Ye**, Xing Xie, and Hai Jin<br/> 
-  Knowledge-Based Systems (KBS), 2021<br/>
-  **[[<font color=red>Paper</font>](https://doi.org/10.1016/j.knosys.2021.106884)]**
-
-+ **Multi-Stage Network Embedding for Exploring Heterogeneous Edges**<br/>
-  Hong Huang, Yu Song, **Fanghua Ye**, Xing Xie, Xuanhua Shi, and Hai Jin<br/>
-  ACM Transactions on Knowledge Discovery from Data (TKDD), 2020<br/>
-  **[[<font color=red>Paper</font>](https://dl.acm.org/doi/abs/10.1145/3415157)]**
-
-+ **Nonuniform Hyper-Network Embedding with Dual Mechanism**<br/>
-  Jie Huang, Chuan Chen, **Fanghua Ye**, Weibo Hu, and Zibin Zheng<br/>
-  ACM Transactions on Information Systems (TOIS), 2020<br/>
-  **[[<font color=red>Paper</font>](https://dl.acm.org/doi/abs/10.1145/3388924)]**
-
-+ **Finding Skyline Communities in Multi-Valued Networks**<br/>
-  Rong-Hua Li, Lu Qin, **Fanghua Ye**, Guoren Wang, Jeffrey Xu Yu, Xiaokui Xiao, Nong Xiao, and Zibin Zheng<br/>
-  The VLDB Journal (VLDBJ), 2020<br/>
-  **[[<font color=red>Paper</font>](https://link.springer.com/article/10.1007/s00778-020-00618-5)]**
-
-+ **Homophily Preserving Community Detection**<br/>
-  **Fanghua Ye**, Chuan Chen, Zhiyuan Wen, Zibin Zheng, Wuhui Chen, and Yuren Zhou<br/>
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019<br/>
-  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8827596)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/HPNMF)]**
-
-+ **STD: An Automatic Evaluation Metric for Machine Translation Based on Word Embeddings**<br/>
-  Pairui Li, Chuan Chen, Wujie Zheng, Yuetang Deng, **Fanghua Ye**, and Zibin Zheng<br/>
-  IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2019<br/>
-  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8736840)]**
-
-+ **Digging into It: Community Detection via Hidden Attributes Analysis**<br/>
-  Rui Li, **Fanghua Ye**, Shaoan Xie, Chuan Chen, and Zibin Zheng<br/>
-  Neurocomputing, 2019<br/>
-  **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231218314036)]**
-
-+ **BGN: Identifying Influential Nodes in Complex Networks via Backward Generating Networks**<br/>
-  Zhiwei Lin, **Fanghua Ye**, Chuan Chen, and Zibin Zheng<br/>
-  IEEE Access, 2018<br/>
-  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8491286)]**
-
-+ **Identifying Influential Individuals on Large-Scale Social Networks: A Community Based Approach**<br/>
-  **Fanghua Ye**, Jiahao Liu, Chuan Chen, Guohui Ling, Zibin Zheng, and Yuren Zhou<br/>
-  IEEE Access, 2018<br/>
-  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8445575)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/CRIM)]**
-
-+ **Finding Weighted K-Truss Communities in Large Networks**<br/>
-  Zibin Zheng, **Fanghua Ye**, Rong-Hua Li, Guohui Ling, and Tan Jin<br/>
-  Information Sciences, 2017<br/>
-  **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0020025516308118)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/KEP-Index)]**
-
-
-
-
 ### Conference Papers
+
++ **ASSIST: Towards Label Noise-Robust Dialogue State Tracking**<br/>
+  **Fanghua Ye**, Yue Feng, and Emine Yilmaz<br/>
+  Annual Meeting of the Association for Computational Linguistics: Findings (Findings of ACL), 2022<br/>
+  
++ **Dynamic Schema Graph Fusion Network for Multi-Domain Dialogue State Tracking**<br/>
+  Yue Feng, Aldo Lipani, **Fanghua Ye**, Qiang Zhang, and Emine Yilmaz<br/>
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2022<br/>
 
 + **Slot Self-Attentive Dialogue State Tracking**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, Qiang Zhang, Shenghui Li, and Emine Yilmaz<br/>
@@ -177,6 +111,81 @@ last-updated: 2020-10-30 5:55 PM
   International Conference on Service-Oriented Computing (ICSOC), 2017 (short) <br/>
   **[[<font color=red>Paper</font>](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_44)]**
   
+
+
+### Journal Articles
+
++ **Auto-Weighted Robust Federated Learning with Corrupted Data Sources**<br/>
+  Shenghui Li, Edith Ngai, **Fanghua Ye**, and Thiemo Voigt<br/>
+  ACM Transactions on Intelligent Systems and Technology (TIST), 2022<br/>
+  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2101.05880)]**
+
++ **Learning Deep Discriminative Representations with Pseudo Supervision for Image Clustering**<br/>
+  Weibo Hu, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Yunfei Du<br/> 
+  Information Sciences, 2021<br/>
+  **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/pii/S0020025521003170)]**
+
++ **Enhancing Graph Neural Networks via Auxiliary Training for Semi-Supervised Node Classification**<br/>
+  Yao Wu, Yu Song, Hong Huang, **Fanghua Ye**, Xing Xie, and Hai Jin<br/> 
+  Knowledge-Based Systems (KBS), 2021<br/>
+  **[[<font color=red>Paper</font>](https://doi.org/10.1016/j.knosys.2021.106884)]**
+
++ **Multi-Stage Network Embedding for Exploring Heterogeneous Edges**<br/>
+  Hong Huang, Yu Song, **Fanghua Ye**, Xing Xie, Xuanhua Shi, and Hai Jin<br/>
+  ACM Transactions on Knowledge Discovery from Data (TKDD), 2020<br/>
+  **[[<font color=red>Paper</font>](https://dl.acm.org/doi/abs/10.1145/3415157)]**
+
++ **Nonuniform Hyper-Network Embedding with Dual Mechanism**<br/>
+  Jie Huang, Chuan Chen, **Fanghua Ye**, Weibo Hu, and Zibin Zheng<br/>
+  ACM Transactions on Information Systems (TOIS), 2020<br/>
+  **[[<font color=red>Paper</font>](https://dl.acm.org/doi/abs/10.1145/3388924)]**
+
++ **Finding Skyline Communities in Multi-Valued Networks**<br/>
+  Rong-Hua Li, Lu Qin, **Fanghua Ye**, Guoren Wang, Jeffrey Xu Yu, Xiaokui Xiao, Nong Xiao, and Zibin Zheng<br/>
+  The VLDB Journal (VLDBJ), 2020<br/>
+  **[[<font color=red>Paper</font>](https://link.springer.com/article/10.1007/s00778-020-00618-5)]**
+
++ **Homophily Preserving Community Detection**<br/>
+  **Fanghua Ye**, Chuan Chen, Zhiyuan Wen, Zibin Zheng, Wuhui Chen, and Yuren Zhou<br/>
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019<br/>
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8827596)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/HPNMF)]**
+
++ **STD: An Automatic Evaluation Metric for Machine Translation Based on Word Embeddings**<br/>
+  Pairui Li, Chuan Chen, Wujie Zheng, Yuetang Deng, **Fanghua Ye**, and Zibin Zheng<br/>
+  IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2019<br/>
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8736840)]**
+
++ **Digging into It: Community Detection via Hidden Attributes Analysis**<br/>
+  Rui Li, **Fanghua Ye**, Shaoan Xie, Chuan Chen, and Zibin Zheng<br/>
+  Neurocomputing, 2019<br/>
+  **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231218314036)]**
+
++ **BGN: Identifying Influential Nodes in Complex Networks via Backward Generating Networks**<br/>
+  Zhiwei Lin, **Fanghua Ye**, Chuan Chen, and Zibin Zheng<br/>
+  IEEE Access, 2018<br/>
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8491286)]**
+
++ **Identifying Influential Individuals on Large-Scale Social Networks: A Community Based Approach**<br/>
+  **Fanghua Ye**, Jiahao Liu, Chuan Chen, Guohui Ling, Zibin Zheng, and Yuren Zhou<br/>
+  IEEE Access, 2018<br/>
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8445575)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/CRIM)]**
+
++ **Finding Weighted K-Truss Communities in Large Networks**<br/>
+  Zibin Zheng, **Fanghua Ye**, Rong-Hua Li, Guohui Ling, and Tan Jin<br/>
+  Information Sciences, 2017<br/>
+  **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0020025516308118)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/KEP-Index)]**
+
+
+
+
+### Book Chapter
+
++ **New Approaches in Multi-View Clustering**<br/>
+  **Fanghua Ye**, Zitai Chen, Hui Qian, Rui Li, Chuan Chen, and Zibin Zheng<br/>
+  Recent Applications in Data Clustering, 2018<br/>
+  **[[<font color=red>Paper</font>](https://www.intechopen.com/books/recent-applications-in-data-clustering/new-approaches-in-multi-view-clustering)]**
+
+
 
 
 ### Workshop Paper

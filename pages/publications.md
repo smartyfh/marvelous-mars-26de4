@@ -26,10 +26,6 @@ last-updated: 2020-10-30 5:55 PM
 + **ASSIST: Towards Label Noise-Robust Dialogue State Tracking**<br/>
   **Fanghua Ye**, Yue Feng, and Emine Yilmaz<br/>
   Annual Meeting of the Association for Computational Linguistics: Findings (Findings of ACL), 2022<br/>
-  
-+ **Dynamic Schema Graph Fusion Network for Multi-Domain Dialogue State Tracking**<br/>
-  Yue Feng, Aldo Lipani, **Fanghua Ye**, Qiang Zhang, and Emine Yilmaz<br/>
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2022<br/>
 
 + **Slot Self-Attentive Dialogue State Tracking**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, Qiang Zhang, Shenghui Li, and Emine Yilmaz<br/>

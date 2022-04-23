@@ -6,7 +6,7 @@
   - ACM Transactions on Information Systems
   - IEEE Transactions on Cybernetics 
   - IEEE Transactions on Big Data 
-  - IEEE Access
+  <!-- - IEEE Access -->
   - Pattern Recognition
   - Information Sciences
   - Knowledge-Based Systems

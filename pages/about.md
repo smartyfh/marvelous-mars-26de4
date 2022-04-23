@@ -25,9 +25,9 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Experience
 
-+ [08/2019 - 10/2019] **Huazhong University of Science and Technology, China**  
+<!-- + [08/2019 - 10/2019] **Huazhong University of Science and Technology, China**  
   *Visiting Student, Advisor: [Hong Huang](https://scholar.google.com/citations?user=-3d0B50AAAAJ&hl=en)*  
-  - Research on Graph Neural Networks & Network Embedding
+  - Research on Graph Neural Networks & Network Embedding -->
 
 + [02/2019 - 05/2019] **National University of Singapore, Singapore**  
   *Research Assistant, Advisor: [Xiaokui Xiao](https://scholar.google.com/citations?user=BpgsGX0AAAAJ&hl=en)*  
@@ -41,9 +41,9 @@ last-updated: 2020-10-30 5:55 PM
   *Research Intern, Mentors: Zongyi Zhang, Chenxi Liang, Guohui Lin*  
   - Research on Ego-Network Community Detection
 
-+ [03/2016 - 05/2016] **National High Performance Computing Center, China**  
+<!-- + [03/2016 - 05/2016] **National High Performance Computing Center, China**  
   *Research Assistant, Advisor: [Rong-Hua Li](https://scholar.google.com/citations?user=fOKGw-EAAAAJ&hl=en)*  
-  - Research on K-Truss Community Search in Large Networks
+  - Research on K-Truss Community Search in Large Networks -->
 
 ### Honors & Awards
 

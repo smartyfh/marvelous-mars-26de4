@@ -143,6 +143,13 @@ layout: default
                 {% endfor %}
                 </div>
               </div>
+              {% elsif section.name == "Services" %}
+              <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
+                <div class="card-text">
+                  {% capture service1 %} {% include services.md %} {% endcapture %}
+                  {{ service1 | markdownify}}
+                </div>
+              </div>
             {% else %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <h5 class="card-title text-center"><a href="/{{ section.url }}" class="highlighted">{{section.description}}</a></h5>

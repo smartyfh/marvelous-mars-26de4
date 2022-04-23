@@ -57,20 +57,20 @@ last-updated: 2020-10-30 5:55 PM
   IEEE First International Conference on Cognitive Machine Intelligence (CogMI), 2019<br/>
   **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8998782)]**
   
-+ **Hyper2vec: Biased Random Walk for Hyper-Network Embedding**<br/>
+<!-- + **Hyper2vec: Biased Random Walk for Hyper-Network Embedding**<br/>
   Jie Huang, Chuan Chen, **Fanghua Ye**, Jiajing Wu, Zibin Zheng, and Guohui Ling<br/>
   International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
-  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_27)]**  
+  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_27)]**   -->
 
-+ **A Semi-Supervised Classification Approach for Multiple Time-Varying Networks with Total Variation**<br/>
+<!-- + **A Semi-Supervised Classification Approach for Multiple Time-Varying Networks with Total Variation**<br/>
   Yuzheng Li, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Guohui Ling<br/>
   International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
-  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_40)]**  
+  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_40)]**   -->
 
-+ **Nonnegative Spectral Clustering for Large-Scale Semi-Supervised Learning**<br/>
+<!-- + **Nonnegative Spectral Clustering for Large-Scale Semi-Supervised Learning**<br/>
   Weibo Hu, Chuan Chen, **Fanghua Ye**, Zibin Zheng, and Guohui Ling<br/>
   International Conference on Database Systems for Advanced Applications (DASFAA), 2019 (short)<br/>
-  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_30)]**
+  **[[<font color=red>Paper</font>](https://doi.org/10.1007/978-3-030-18590-9_30)]** -->
 
 + **Adaptive Affinity Learning for Accurate Community Detection**<br/>
   **Fanghua Ye**, Shenghui Li, Zhiwei Lin, Chuan Chen, and Zibin Zheng<br/>
@@ -87,10 +87,10 @@ last-updated: 2020-10-30 5:55 PM
   ACM International Conference on Management of Data (SIGMOD), 2018 <br/>
   **[[<font color=red>Paper</font>](https://dl.acm.org/doi/10.1145/3183713.3183736)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/MAIC)]**
 
-+ **An Adaptive Semi-Local Algorithm for Node Ranking in Large Complex Networks**<br/>
+<!-- + **An Adaptive Semi-Local Algorithm for Node Ranking in Large Complex Networks**<br/>
   **Fanghua Ye**, Chuan Chen, Jie Zhang, Jiajing Wu, and Zibin Zheng<br/>
   International Conference on Service-Oriented Computing (ICSOC), 2018 (short) <br/>
-  **[[<font color=red>Paper</font>](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_36)]**
+  **[[<font color=red>Paper</font>](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_36)]** -->
 
 + **Identifying Influential Nodes in Complex Networks via Semi-Local Centrality**<br/>
   Jiali Dong, **Fanghua Ye**, Wuhui Chen, and Jiajing Wu<br/>
@@ -102,10 +102,10 @@ last-updated: 2020-10-30 5:55 PM
   IEEE International Symposium on Circuits and Systems (ISCAS), 2018 <br/>
   **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8351747)]**
   
-+ **Efficient Influential Individuals Discovery on Service-Oriented Social Networks: A Community-Based Approach**<br/>
+<!-- + **Efficient Influential Individuals Discovery on Service-Oriented Social Networks: A Community-Based Approach**<br/>
   **Fanghua Ye**, Jiahao Liu, Chuan Chen, Guohui Ling, Zibin Zheng, and Yuren Zhou<br/>
   International Conference on Service-Oriented Computing (ICSOC), 2017 (short) <br/>
-  **[[<font color=red>Paper</font>](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_44)]**
+  **[[<font color=red>Paper</font>](https://link.springer.com/chapter/10.1007/978-3-319-69035-3_44)]** -->
   
 
 
@@ -156,10 +156,10 @@ last-updated: 2020-10-30 5:55 PM
   Neurocomputing, 2019<br/>
   **[[<font color=red>Paper</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231218314036)]**
 
-+ **BGN: Identifying Influential Nodes in Complex Networks via Backward Generating Networks**<br/>
+<!-- + **BGN: Identifying Influential Nodes in Complex Networks via Backward Generating Networks**<br/>
   Zhiwei Lin, **Fanghua Ye**, Chuan Chen, and Zibin Zheng<br/>
   IEEE Access, 2018<br/>
-  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8491286)]**
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/8491286)]** -->
 
 + **Identifying Influential Individuals on Large-Scale Social Networks: A Community Based Approach**<br/>
   **Fanghua Ye**, Jiahao Liu, Chuan Chen, Guohui Ling, Zibin Zheng, and Yuren Zhou<br/>
@@ -184,9 +184,9 @@ last-updated: 2020-10-30 5:55 PM
 
 
 
-### Workshop Paper
+<!-- ### Workshop Paper
 
 + **DC-RSF: A Dynamic and Customized Reputation System Framework for Joint Cloud Computing**<br/>
   **Fanghua Ye**, Zibin Zheng, Chuan Chen, and Yuren Zhou<br/>
   IEEE International Conference on Distributed Computing Systems Workshops (ICDCSW), 2017 <br/>
-  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/7979829)]**
+  **[[<font color=red>Paper</font>](https://ieeexplore.ieee.org/abstract/document/7979829)]** -->

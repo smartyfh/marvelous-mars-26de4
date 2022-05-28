@@ -26,6 +26,7 @@ last-updated: 2020-10-30 5:55 PM
 + **ASSIST: Towards Label Noise-Robust Dialogue State Tracking**<br/>
   **Fanghua Ye**, Yue Feng, and Emine Yilmaz<br/>
   Annual Meeting of the Association for Computational Linguistics: Findings (Findings of ACL), 2022<br/>
+  **[[<font color=red>Paper</font>](https://aclanthology.org/2022.findings-acl.214.pdf)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/DST-ASSIST)]**
 
 + **Slot Self-Attentive Dialogue State Tracking**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, Qiang Zhang, Shenghui Li, and Emine Yilmaz<br/>

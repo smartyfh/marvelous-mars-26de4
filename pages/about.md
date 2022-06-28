@@ -58,8 +58,9 @@ last-updated: 2020-10-30 5:55 PM
   
 ### Academic Services
 
-+ PC Member 
-  - SIGIR 2022, SIGKDD 2022, WSDM 2022, AAAI 2022 
++ PC Member
+  - WSDM 2023 
+  - SIGIR 2022, SIGKDD 2022, WSDM 2022, AAAI 2022, CIKM 2022, LoG 2022
   - CIKM 2021, AAAI 2021
 
 + Conference (Sub-)Reviewer

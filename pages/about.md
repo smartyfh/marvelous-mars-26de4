@@ -76,6 +76,7 @@ last-updated: 2020-10-30 5:55 PM
   - IEEE Access
   - Pattern Recognition
   - Information Sciences
+  - Neurocomputing
   - Knowledge-Based Systems
   - World Wide Web Journal  
   - Scientific Reports  

@@ -78,6 +78,7 @@ last-updated: 2020-10-30 5:55 PM
   - Information Sciences
   - Neurocomputing
   - Knowledge-Based Systems
+  - Expert Systems with Applications
   - World Wide Web Journal  
   - Scientific Reports  
   - Social Network Analysis and Mining  

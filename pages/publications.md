@@ -33,6 +33,11 @@ last-updated: 2020-10-30 5:55 PM
   Annual Meeting of the Association for Computational Linguistics: Findings (Findings of ACL), 2022<br/>
   **[[<font color=red>Paper</font>](https://aclanthology.org/2022.findings-acl.214.pdf)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/DST-ASSIST)]**
 
++ **Dynamic Schema Graph Fusion Network for Multi-Domain Dialogue State Tracking**<br/>
+  Yue Feng, Aldo Lipani, **Fanghua Ye**, Qiang Zhang, and Emine Yilmaz<br/>
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2022<br/>
+  **[[<font color=red>Paper</font>](https://aclanthology.org/2022.acl-long.10.pdf)]**
+
 + **Slot Self-Attentive Dialogue State Tracking**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, Qiang Zhang, Shenghui Li, and Emine Yilmaz<br/>
   The Web Conference (WWW), 2021<br/>

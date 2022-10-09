@@ -19,6 +19,10 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Conference Papers
 
++ **MetaASSIST: Robust Dialogue State Tracking with Meta Learning**<br/>
+  **Fanghua Ye**, Xi Wang, Jie Huang, Shenghui Li, Samuel Stern, and Emine Yilmaz<br/>
+  The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022<br/>
+
 + **MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, and Emine Yilmaz<br/>
   Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL), 2022<br/>

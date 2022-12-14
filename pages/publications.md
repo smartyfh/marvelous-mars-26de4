@@ -22,6 +22,7 @@ last-updated: 2020-10-30 5:55 PM
 + **MetaASSIST: Robust Dialogue State Tracking with Meta Learning**<br/>
   **Fanghua Ye**, Xi Wang, Jie Huang, Shenghui Li, Samuel Stern, and Emine Yilmaz<br/>
   The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022<br/>
+  **[[<font color=red>Paper</font>](https://arxiv.org/abs/2210.12397)]** **[[<font color=red>Code</font>](https://github.com/smartyfh/DST-MetaASSIST)]**
 
 + **MultiWOZ 2.4: A Multi-Domain Task-Oriented Dialogue Dataset with Essential Annotation Corrections to Improve State Tracking Evaluation**<br/>
   **Fanghua Ye**, Jarana Manotumruksa, and Emine Yilmaz<br/>

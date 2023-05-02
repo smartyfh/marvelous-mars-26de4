@@ -19,6 +19,10 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Conference Papers
 
++ **Modeling User Satisfaction Dynamics in Dialogue via Hawkes Process**<br/>
+  **Fanghua Ye**, Zhiyuan Hu, and Emine Yilmaz<br/>
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2023<br/>
+
 + **MetaASSIST: Robust Dialogue State Tracking with Meta Learning**<br/>
   **Fanghua Ye**, Xi Wang, Jie Huang, Shenghui Li, Samuel Stern, and Emine Yilmaz<br/>
   The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022<br/>

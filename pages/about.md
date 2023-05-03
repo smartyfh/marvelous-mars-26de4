@@ -72,9 +72,11 @@ last-updated: 2020-10-30 5:55 PM
 + Journal Reviewer
   - ACM Transactions on Information Systems
   - IEEE Transactions on Neural Networks and Learning Systems
+  - IEEE Transactions on Network Science and Engineering
   - IEEE Transactions on Cybernetics 
   - IEEE Transactions on Big Data 
   - IEEE Access
+  - Artificial Intelligence Review
   - Pattern Recognition
   - Information Sciences
   - Neurocomputing

@@ -19,6 +19,18 @@ last-updated: 2020-10-30 5:55 PM
 
 ### Conference Papers
 
++ **Enhancing Conversational Search: Large Language Model-Aided Informative Query Rewriting**<br/>
+  **Fanghua Ye**, Meng Fang, Shenghui Li, and Emine Yilmaz<br/>
+  The Conference on Empirical Methods in Natural Language Processing: Findings (Findings of EMNLP), 2023<br/>
+
++ **Turn-Level Active Learning for Dialogue State Tracking**<br/>
+  Zihan Zhang, Meng Fang, **Fanghua Ye**, Ling Chen, and Mohammad Reza Namazi Rad<br/>
+  The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023<br/>
+
++ **Lending Interaction Wings to Recommender Systems with Plug-and-Play Conversational Agents**<br/>
+  Jiarui Jin, Xianyu Chen, **Fanghua Ye**, Mengyue Yang, Yue Feng, Weinan Zhang, Yong Yu, and Jun Wang<br/>
+  The Conference on Neural Information Processing Systems (NeurIPS), 2023<br/>
+
 + **Modeling User Satisfaction Dynamics in Dialogue via Hawkes Process**<br/>
   **Fanghua Ye**, Zhiyuan Hu, and Emine Yilmaz<br/>
   Annual Meeting of the Association for Computational Linguistics (ACL), 2023<br/>

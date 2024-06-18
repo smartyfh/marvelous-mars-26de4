@@ -1,3 +1,4 @@
++ **Jun, 2024** - Gave a talk on benchmarking LLM uncertainty at Chongqing University.
 + **Apr, 2024** - Gave a talk on benchmarking LLM uncertainty at Beihang University.
 + **Oct, 2023** - Two papers accepted to <font color=red>EMNLP 2023</font> (1 Main + 1 Findings).
 + **Sep, 2023** - One paper was accepted to <font color=red>NeurIPS 2023</font>.

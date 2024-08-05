@@ -1,3 +1,4 @@
++ **Jul, 2024** - Gave a talk at the 23rd China National Conference on Computational Linguistics (CCL 2024).
 + **Jun, 2024** - Our survey paper on the synergy of foundation models and federated learning was available on [[Arxiv](https://arxiv.org/abs/2406.12844)].
 + **Jun, 2024** - Gave a talk on benchmarking LLM uncertainty at Chongqing University.
 + **Apr, 2024** - Gave a talk on benchmarking LLM uncertainty at Beihang University.

@@ -1,3 +1,4 @@
++ **May, 2025** - Two papers accepted to <font color=red>ICML 2025</font>.
 + **Aug, 2024** - Passed my final viva (PhD defense) with no corrections.
 + **Jul, 2024** - Gave a talk at the 23rd China National Conference on Computational Linguistics (CCL 2024).
 + **Jun, 2024** - Our survey paper on the synergy of foundation models and federated learning was available on [[Arxiv](https://arxiv.org/abs/2406.12844)].
